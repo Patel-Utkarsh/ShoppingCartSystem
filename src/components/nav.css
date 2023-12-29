@@ -1,0 +1,29 @@
+.navClass{
+   
+    height: 70px;
+    background-color: #28cbef;
+}
+
+.nav{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo{
+    padding-top: 5px;
+    height: 60px;
+}
+
+#cart{
+    padding-top: 10px;
+    position: relative;
+    
+}
+
+#crt{
+    height: 50px;
+}
+
+
